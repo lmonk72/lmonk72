@@ -25,15 +25,16 @@ I'm Lawrence, a web developer and all-round computing expert based in West Londo
 
 ## My skills include
 ###
-<img src="https://img.shields.io/badge/html%20-%2320232a.svg?&style=for-the-badge&logo=html5&logoColor=%E34F26"/>
-<img src="https://img.shields.io/badge/css%20-%2320232a.svg?&style=for-the-badge&logo=css&logoColor=663399" />
-<img src="https://img.shields.io/badge/sass/scss%20-%2320232a.svg?&style=for-the-badge&logo=sass&logoColor=%CC6699"/>
-<img src="https://img.shields.io/badge/javascript%20-%2320232a.svg?&style=for-the-badge&logo=javascript&logoColor=%F7DF1E"/>
-<img src="https://img.shields.io/badge/typescript%20-%2320232a.svg?&style=for-the-badge&logo=typescript&logoColor=%3178C6"/>
-<img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-<img src="https://img.shields.io/badge/php%20-%2320232a.svg?&style=for-the-badge&logo=php&logoColor=777BB4"/>
-<img src="https://img.shields.io/badge/mysql%20-%2320232a.svg?&style=for-the-badge&logo=mysql&logoColor=%4479A1"/>
-
+<p>
+  <img src="https://img.shields.io/badge/html%20-%2320232a.svg?&style=for-the-badge&logo=html5&logoColor=%E34F26"/>
+  <img src="https://img.shields.io/badge/css%20-%2320232a.svg?&style=for-the-badge&logo=css&logoColor=663399" />
+  <img src="https://img.shields.io/badge/sass/scss%20-%2320232a.svg?&style=for-the-badge&logo=sass&logoColor=%CC6699"/>
+  <img src="https://img.shields.io/badge/javascript%20-%2320232a.svg?&style=for-the-badge&logo=javascript&logoColor=%F7DF1E"/>
+  <img src="https://img.shields.io/badge/typescript%20-%2320232a.svg?&style=for-the-badge&logo=typescript&logoColor=%3178C6"/>
+  <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/php%20-%2320232a.svg?&style=for-the-badge&logo=php&logoColor=777BB4"/>
+  <img src="https://img.shields.io/badge/mysql%20-%2320232a.svg?&style=for-the-badge&logo=mysql&logoColor=%4479A1"/>
+</p>
 ###
 
 - ⚡ Fun fact, **I accidentally ended up doing a coding degree instead of a digital media degree!**
