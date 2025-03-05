@@ -35,6 +35,7 @@ I'm Lawrence, a web developer and all-round computing expert based in West Londo
   <img src="https://img.shields.io/badge/php%20-%2320232a.svg?&style=for-the-badge&logo=php&logoColor=777BB4"/>
   <img src="https://img.shields.io/badge/mysql%20-%2320232a.svg?&style=for-the-badge&logo=mysql&logoColor=%4479A1"/>
 </p>
+
 ###
 
 - ⚡ Fun fact, **I accidentally ended up doing a coding degree instead of a digital media degree!**
